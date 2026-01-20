@@ -1,0 +1,10 @@
+# Omitir la carpeta de reportes generados
+Usuarios_capturados/
+
+# Omitir archivos temporales de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Omitir cualquier log suelto
+*.txt
